@@ -1,1 +1,1 @@
-# woocommerce-ajax-product-search
+# woocommerce-ajax-product-search-widget
